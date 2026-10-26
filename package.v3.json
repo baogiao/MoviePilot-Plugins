@@ -1138,5 +1138,18 @@
       "v1.1.0": "改为后台定时统计并缓存，页面与仪表板秒出，避免统计阻塞 Web 界面",
       "v1.0.0": "初始版本"
     }
+  },
+  "LitePanNotify": {
+  "name": "LitePan 自动联动",
+  "description": "监听 MP 整理完成事件，触发 LitePan 生成 STRM 与刮削。",
+  "labels": "联动",
+  "version": "1.0",
+  "icon": "webhook.png",
+  "author": "Custom",
+  "level": 1,
+  "system_version": ">=3.0.0",
+  "history": {
+    "v1.0": "首次发布。"
   }
 }
+  
