@@ -1140,16 +1140,16 @@
     }
   },
   "LitePanNotify": {
-  "name": "LitePan 自动联动",
-  "description": "监听 MP 整理完成事件，触发 LitePan 生成 STRM 与刮削。",
-  "labels": "联动",
-  "version": "1.0",
-  "icon": "webhook.png",
-  "author": "Custom",
-  "level": 1,
-  "system_version": ">=3.0.0",
-  "history": {
-    "v1.0": "首次发布。"
+    "name": "LitePan 自动联动",
+    "description": "监听 MP 整理完成事件，触发 LitePan 生成 STRM 与刮削。",
+    "labels": "联动",
+    "version": "1.0",
+    "icon": "webhook.png",
+    "author": "Custom",
+    "level": 1,
+    "system_version": ">=3.0.0",
+    "history": {
+      "v1.0": "首次发布。"
   }
 }
   
